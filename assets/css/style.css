@@ -21,8 +21,7 @@ body {
 	float: left;
 	font-weight: bold;
 	margin-left: 60px;
-	text-decoration: none;
-	
+	text-decoration: none;	
 
 }
 
@@ -116,9 +115,9 @@ footer {
 	background-color: grey;
 	border-top-width: 10px; 
 	border-top-style: solid;
-	border-top-color: teal;
+	border-top-color: #4aaaa5;
 	text-align: center;
-	padding: 40px;
+	padding: 30px;
 	clear: both;
 	width: 100%;
 	color: #d3d3d3;
@@ -126,4 +125,12 @@ footer {
 }
 .footer-container {
 	width: 1020px;
+}
+
+.submit {
+	background-color: #4aaaa5;
+	padding: 10px 24px;
+	font-size: 16px;
+	color: #fff;
+	border: none;
 }
