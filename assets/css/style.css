@@ -12,13 +12,6 @@ body {
 	background-image: url("../images/bgnoise_lg_@2X.png");
 	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
-	/*height: 100%; tried to create a sticky footer*/ 
-	/*margin: 0;*/
-
-}
-/*.wrapper {
-	min-height: 100%;
-	margin-bottom: -50px;*/
 }
 #logo a {
 	padding: 18px;
